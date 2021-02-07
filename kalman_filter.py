@@ -33,8 +33,6 @@ Q = 100 * 0.1 ** 2
 
 n = 100
 
-
-
 X = np.zeros((2, n+1), float)
 Xhat = np.zeros((2, n+1), float)
 PP = np.zeros((4, n+1), float)
@@ -54,8 +52,7 @@ for k in range(1, n):
 
     K = multi_dot([P, C[None].conj().T, (multi_dot([C, P, C[None].conj().T]) + Q).conj().T])
     K = K[None].conj().T
-    W = (y - np.dot(C, xhat))
-    xhat = xhat + K * W
+    xhat = xhat + K * (y - np.dot(C, xhat))
     P = P - K * np.dot(C, P)
     Xhat[0:2, k] = xhat[0:2, 0]
     KK[0:2, k - 1] = K[0:2, 0]
@@ -63,16 +60,20 @@ for k in range(1, n):
 
 plt.plot(X[0], 'r-', Xhat[0], 'b-', X[0] - Xhat[0], 'g-')
 plt.xlabel("Position (red: true, blue: est, green: error)")
+plt.savefig("kalman_position.png", format="png")
 plt.show()
 
 plt.plot(X[1], 'r-', Xhat[1], 'b-', X[1] - Xhat[1], 'g-')
 plt.xlabel("Speed (red: true, blue: est, green: error)")
+plt.savefig("kalman_speed.png", format="png")
 plt.show()
 
-plt.plot(PP[0], 'r-', PP[3], 'g-')
-plt.ylabel("Error covariance")
+plt.plot(np.sqrt(PP[0]), 'r-', np.sqrt(PP[3]), 'g-')
+plt.xlabel("Error covariance (red: sqrt(P(1, 1)), green: sqrt(PP(2, 2))")
+plt.savefig("kalman_error_covariance.png", format="png")
 plt.show()
 
 plt.plot(KK[0], 'r-', KK[1], 'g-')
-plt.ylabel("Kalman filter gain")
+plt.xlabel("Kalman filter gain (red: K(1), green: K(2)")
+plt.savefig("kalman_filter_gain.png", format="png")
 plt.show()
