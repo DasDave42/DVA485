@@ -809,3 +809,99 @@ C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-10h21m57s
 C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-10h21m57s301.png 321,62,401,125,0 43,81,197,99,0 
 C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-10h21m57s501.png 312,60,381,115,0 56,77,145,103,0 
 C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-10h21m57s707.png 328,64,394,128,0 88,73,205,108,0 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h54m48s613.png 11,32,101,95,0 194,15,253,54,1 298,15,408,73,0 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h55m15s447.png 7,49,90,117,0 186,29,257,72,1 292,23,398,81,0 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h55m19s298.png 6,50,91,115,0 186,36,262,79,1 310,29,401,81,0 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h55m19s819.png 14,70,64,109,0 179,38,276,91,1 303,26,392,83,0 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h55m20s600.png 9,62,69,111,0 188,32,285,93,1 318,19,400,65,0 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h55m21s399.png 13,60,84,110,0 192,39,323,115,1 345,19,400,62,0 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h55m21s797.png 24,68,100,132,0 238,41,376,123,1 393,30,409,49,0 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h55m24s763.png 20,74,96,146,0 294,28,410,119,1 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h55m25s162.png 21,95,109,166,0 369,30,407,135,1 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h55m41s341.png 4,31,23,46,0 31,5,84,35,1 177,4,246,48,1 275,62,366,115,0 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h55m43s142.png 12,11,70,43,1 169,14,266,88,1 311,75,375,163,0 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h55m44s645.png 311,75,375,163,39,31,0 2,2,36,27,1 152,8,251,68,1 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h55m46s145.png 27,83,68,110,0 129,42,186,75,1 350,55,408,144,1 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h55m50s367.png 47,110,94,170,0 230,12,334,87,1 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h55m51s519.png 28,112,80,155,0 175,10,285,89,1 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h55m53s647.png 7,102,51,138,0 77,22,208,95,1 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h56m02s548.png 5,31,19,49,0 31,6,74,29,1 178,6,232,43,1 287,75,378,131,0 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h56m03s448.png 5,48,16,59,0 27,22,80,45,1 174,24,247,65,1 288,85,373,146,0 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h56m04s448.png 4,10,55,42,1 163,13,241,68,1 268,81,379,140,0 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h56m05s066.png 0,1,42,24,1 155,5,237,59,1 282,83,382,140,0 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h56m05s846.png 282,83,382,140,40,36,0 7,6,35,38,1 152,14,263,79,1 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h56m06s898.png 6,9,44,44,1 157,24,279,94,1 306,100,386,141,0 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h56m08s142.png 20,75,42,99,0 90,36,149,71,1 296,52,414,135,1 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h56m09s313.png 32,84,70,106,0 113,39,179,76,1 332,48,409,147,1 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h56m10s937.png 12,94,56,125,0 211,28,275,70,1 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h56m12s726.png 8,87,308,166,0 319,24,403,70,1 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h56m15s445.png 11,74,212,212,0 233,13,349,89,1 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h56m16s649.png 3,128,80,191,0 87,64,151,142,0 201,10,310,81,1 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h56m18s709.png 2,102,35,143,0 44,26,184,117,1 362,22,394,48,0 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h56m20s589.png 4,41,102,136,1 322,28,377,63,0 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h56m45s175.png 15,39,70,80,0 97,19,129,45,0 329,5,391,47,0 215,0,265,31,1 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h56m46s306.png 8,44,61,87,0 83,22,114,52,0 338,11,372,41,0 213,0,266,35,1 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h56m47s006.png 10,59,42,81,0 63,46,84,62,0 101,35,120,51,0 302,23,317,46,0 338,34,355,57,0 369,44,407,76,0 192,19,244,56,1 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h56m47s827.png 10,72,59,103,0 306,30,397,77,0 82,57,103,73,0 188,35,256,76,1 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h56m48s528.png 15,79,47,108,0 63,65,94,85,0 332,40,400,86,0 183,41,262,85,1 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h56m49s308.png 11,91,31,108,0 39,77,66,91,0 82,62,105,76,0 307,29,323,52,0 342,42,358,63,0 374,50,393,67,0 186,42,279,92,1 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h56m50s009.png 327,18,412,62,0 8,80,27,97,0 47,63,91,82,0 102,40,124,58,0 191,30,304,95,1 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h56m50s810.png 386,27,408,59,0 9,97,39,127,0 48,82,84,108,0 102,60,138,88,0 223,42,367,119,1 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h56m51s533.png 11,100,56,133,0 80,75,115,102,0 126,62,148,79,0 250,45,395,121,1 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h57m10s794.png 9,56,41,85,0 57,41,97,62,0 315,3,401,47,0 213,6,256,34,1 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h57m11s797.png 8,52,44,74,0 341,11,388,41,0 217,3,264,33,1 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h57m12s417.png 12,43,92,79,0 308,11,405,57,0 203,11,255,43,1 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h57m12s997.png 10,53,44,93,0 68,48,84,66,0 320,33,394,87,0 188,25,245,57,1 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h57m13s517.png 303,26,401,81,0 8,67,66,94,0 88,53,105,69,0 191,34,252,74,1 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h57m14s020.png 301,25,409,80,0 16,78,45,106,0 57,61,96,78,0 186,36,258,84,1 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h57m14s599.png 300,32,403,90,0 5,87,42,110,0 58,73,87,88,0 185,44,266,89,1 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h57m15s123.png 309,26,403,70,0 4,79,44,102,0 62,67,85,81,0 180,38,277,100,1 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h57m15s701.png 324,20,404,69,0 6,63,59,93,0 189,31,301,96,1 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h57m16s299.png 348,25,410,63,0 9,82,38,108,0 54,66,83,91,0 92,56,113,72,0 193,38,324,115,1 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h57m16s801.png 14,104,56,132,0 75,77,111,101,0 123,55,171,85,0 246,37,391,123,1 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h57m17s986.png 11,110,40,139,0 62,83,92,113,0 123,63,145,84,0 162,47,186,70,0 282,30,410,111,1 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h57m19s057.png 12,126,48,162,0 81,99,111,128,0 125,80,154,103,0 173,60,195,80,0 369,30,410,128,1 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h57m29s463.png 9,17,49,29,0 234,39,404,187,0 175,4,222,27,1 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h57m30s466.png 11,23,41,38,0 231,40,401,168,0 178,3,222,30,1 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h57m32s467.png 7,22,36,46,0 258,39,402,130,0 201,3,248,30,1 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h57m33s865.png 5,19,21,35,0 271,33,393,114,0 208,0,263,26,1 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h57m34s775.png 5,15,33,39,0 267,39,393,116,0 204,0,259,25,1 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h57m35s550.png 9,13,49,29,0 266,37,403,126,0 203,1,266,29,1 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h57m35s931.png 9,10,26,27,0 267,32,434,132,0 203,1,260,23,1 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h57m36s431.png 7,10,18,17,0 272,33,405,111,0 199,2,262,22,1 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h57m36s932.png 271,33,402,111,0 190,3,258,24,1 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h57m37s454.png 183,3,260,32,1 269,37,402,123,0 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h57m37s950.png 173,5,261,40,1 267,46,404,132,0 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h57m38s530.png 160,3,261,47,1 270,52,410,151,0 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h57m39s033.png 156,2,271,56,1 280,68,401,137,0 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h57m39s633.png 160,2,286,75,1 300,85,401,135,0 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h57m40s130.png 8,21,28,39,0 202,8,349,95,1 369,103,410,122,0 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h57m42s534.png 9,23,27,44,0 221,16,364,98,1 390,85,411,112,0 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h57m43s550.png 10,42,54,70,0 289,20,412,115,1 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h57m44s323.png 3,40,75,66,0 303,18,400,117,1 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h57m45s339.png 13,46,45,69,0 54,37,91,54,0 369,3,379,16,0 392,11,408,143,1 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h57m56s817.png 10,21,23,41,0 250,41,408,150,0 193,1,243,33,1 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h57m57s316.png 267,36,398,107,0 208,2,260,25,1 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h57m57s617.png 8,22,24,38,0 39,17,56,27,0 273,32,321,54,0 326,78,385,110,0 211,2,266,25,1 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h57m58s115.png 15,17,36,35,0 268,38,404,118,0 201,3,256,23,1 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h57m58s615.png 14,11,43,34,0 267,35,328,54,0 311,70,365,91,0 359,108,407,119,0 203,4,261,28,1 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h57m59s035.png 199,0,260,24,1 273,34,327,49,0 321,71,369,77,0 347,98,409,113,0 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h57m59s417.png 195,0,267,24,1 278,37,320,55,0 325,73,369,86,0 364,106,409,120,0 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h57m59s816.png 191,2,261,26,1 273,31,315,43,0 310,57,364,76,0 353,97,395,113,0 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h58m00s216.png 183,2,257,29,1 267,37,325,61,0 326,91,399,117,0 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h58m00s518.png 182,3,262,28,1 272,44,334,57,0 324,78,352,85,0 352,106,409,125,0 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h58m01s035.png 196,16,247,32,1 303,75,359,97,0 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h58m01s215.png 165,3,254,37,1 270,50,312,69,0 310,87,380,106,0 366,121,407,136,0 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h58m01s616.png 160,1,265,54,1 285,67,332,85,0 322,111,395,125,0 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h58m01s916.png 322,111,395,125,272,62,0 284,73,345,91,0 158,1,271,58,1 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h58m02s114.png 157,5,268,61,1 280,73,404,139,0 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h58m02s235.png 153,4,278,62,1 290,74,399,132,0 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h58m02s416.png 155,3,288,63,1 285,79,358,100,0 345,117,396,136,0 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h58m02s615.png 157,0,299,80,1 312,94,380,119,0 360,137,409,154,0 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h58m02s816.png 167,2,307,88,1 318,96,369,107,0 350,134,410,141,0 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h58m03s018.png 5,18,21,33,0 194,5,343,91,1 357,104,419,130,0 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h58m03s215.png 9,29,26,42,0 219,11,371,94,1 384,103,411,108,0 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h58m03s415.png 10,40,28,50,0 36,34,53,44,0 243,15,407,108,1 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h58m03s615.png 7,47,28,60,0 39,37,69,52,0 268,20,411,117,1 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h58m03s815.png 9,40,46,73,0 302,15,407,119,1 
+C:\Users\Larry\PycharmProjects\DVA485\Image_dataset\vlcsnap-2021-02-23-14h58m04s361.png 
