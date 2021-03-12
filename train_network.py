@@ -94,7 +94,7 @@ result = model.predict(image)
 
 print(f"predicting image {path}, expected: {true_angle}, result: {result}")
 
-# Ask if user wants to save trained model
+# Ask if user wants to save trained mode
 print(f"\nTraining finished!")
 while True:
     query = input('Save model? \n y/n: ')
